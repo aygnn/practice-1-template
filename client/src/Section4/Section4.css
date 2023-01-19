@@ -1,0 +1,41 @@
+.section4{
+    background-color:#f8f9fa ;
+}
+.basliq div img{
+    width: 50px;
+    height: 50px;
+    flex: 0 0 50px;
+    border-radius: 50%;
+}
+.basliq{
+    display: flex;
+    margin-top: 14px;
+}
+.kart{
+    box-shadow: 0 15px 30px 0 rgb(0 0 0 / 10%);
+    width: 350px;
+    height: 272px;
+}
+.Typography{
+    font-size: 18px !important;
+    text-align: left;
+    margin-top: 35px !important;
+    width: 93%;
+}
+.CardContent{
+    margin-left: 20px;
+}
+.happy{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 51px;
+    margin-left: 41%;
+    line-height: 1.7;
+    color: #364d59 !important;
+    font-weight: 300;
+    font-size: 1rem;
+}
+.roww{
+    margin-top: 58px;
+}

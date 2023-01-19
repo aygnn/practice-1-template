@@ -1,0 +1,28 @@
+.col-sm-6 img{
+    width: 302px;
+    height: 428px;
+}
+.col-sm-7{
+    display: flex;
+}
+.col-sm-5{
+    width: 378px !important;
+    text-align: left;
+    margin-left: 48px;
+}
+.col-sm-5 .bookbtn{
+    color: #212529;
+    background-color: #fee2b3;
+    border-color: #fee2b3;
+    width: 204px;
+    height: 50px;
+    margin-top: 12%;
+
+    border: 1px solid transparent;
+}
+.col-sm-5 div p{
+    margin-top: 35px;
+}
+.container{
+    padding: 80px;
+}
