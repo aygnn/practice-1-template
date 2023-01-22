@@ -1,15 +1,12 @@
 .section2{
-    height: 876px;
+ 
     background-color: #f8f9fa;
-    display: flex;
-    height: 876px;
-    background-color: #f8f9fa;
-    justify-content: center;
+
 }
 .texts{
     display: flex;
     flex-direction: column;
-    position: absolute;
+  
 }
 .texts h2{
     font-size: 2rem;
